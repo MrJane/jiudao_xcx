@@ -1,4 +1,10 @@
 /**app.wxss**/
+/* app.wxss 可以设置全局样式， */
+page{
+  /* page 微信小程序 会给每个页面添加一个<page></page>标签，所以我们用page设置全局样式 */
+  font-size: 36rpx;
+  font-family: 'pin'
+}
 .container {
   height: 100%;
   display: flex;
