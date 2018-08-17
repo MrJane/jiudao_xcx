@@ -1,0 +1,12 @@
+<!-- components/epsoide/epsoide.wxml -->
+<view class="container">
+    <view class="index_container">
+        <text class="plain">No.</text>
+        <text class="index">08</text>
+        <view class="vertical-line"></view>
+    </view>
+    <view class="date">
+        <text class="month">八月</text>
+        <text class="year">2018</text>
+    </view>
+</view>

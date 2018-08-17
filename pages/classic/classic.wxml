@@ -1,2 +1,7 @@
 <!--pages/classic/classic.wxml-->
-<text>pages/classic/classic.wxml</text>
+<view class='container'>
+  <view class='header'>
+    <epsoide class="epsoide"></epsoide>
+    <like class="like"></like>
+  </view>
+</view>
